@@ -1,0 +1,11 @@
+H:\Nuevo\Tienda1\Tienda1\bin\Debug\Tienda1.exe.config
+H:\Nuevo\Tienda1\Tienda1\bin\Debug\Tienda1.exe
+H:\Nuevo\Tienda1\Tienda1\bin\Debug\Tienda1.pdb
+H:\Nuevo\Tienda1\Tienda1\obj\Debug\Tienda1.csproj.AssemblyReference.cache
+H:\Nuevo\Tienda1\Tienda1\obj\Debug\Tienda1.Form1.resources
+H:\Nuevo\Tienda1\Tienda1\obj\Debug\Tienda1.Properties.Resources.resources
+H:\Nuevo\Tienda1\Tienda1\obj\Debug\Tienda1.csproj.GenerateResource.cache
+H:\Nuevo\Tienda1\Tienda1\obj\Debug\Tienda1.csproj.CoreCompileInputs.cache
+H:\Nuevo\Tienda1\Tienda1\obj\Debug\Tienda1.exe
+H:\Nuevo\Tienda1\Tienda1\obj\Debug\Tienda1.pdb
+H:\Nuevo\Tienda1\Tienda1\obj\Debug\Tienda1.Forms2.resources

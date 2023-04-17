@@ -1,0 +1,10 @@
+H:\Nuevo\Tienda1\Tienda1\bin\Release\Tienda.exe.config
+H:\Nuevo\Tienda1\Tienda1\bin\Release\Tienda.exe
+H:\Nuevo\Tienda1\Tienda1\bin\Release\Tienda.pdb
+H:\Nuevo\Tienda1\Tienda1\obj\Release\Tienda1.Form1.resources
+H:\Nuevo\Tienda1\Tienda1\obj\Release\Tienda1.Forms2.resources
+H:\Nuevo\Tienda1\Tienda1\obj\Release\Tienda.Properties.Resources.resources
+H:\Nuevo\Tienda1\Tienda1\obj\Release\Tienda1.csproj.GenerateResource.cache
+H:\Nuevo\Tienda1\Tienda1\obj\Release\Tienda1.csproj.CoreCompileInputs.cache
+H:\Nuevo\Tienda1\Tienda1\obj\Release\Tienda.exe
+H:\Nuevo\Tienda1\Tienda1\obj\Release\Tienda.pdb
